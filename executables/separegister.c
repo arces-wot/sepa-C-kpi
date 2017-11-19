@@ -32,6 +32,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <glib.h>
+#include "../sepa_utilities.h"
 #include "../sepa_secure.h"
 
 #define REGISTRATION_PATH	"/oauth/register"
